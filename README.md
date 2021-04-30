@@ -1,1 +1,1 @@
-# AWG1000
+AWG1000 is a complete open source hardware/firmware/softeware arbitrary waform generator.
