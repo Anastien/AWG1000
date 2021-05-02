@@ -31,7 +31,7 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\sch-27452_b.dsn")
       (Path "Design Resources" ".\sch-27452_b.dsn" "SCHEMATIC1")
-      (Select "Design Resources" ".\sch-27452_b.dsn" "SCHEMATIC1" "04 PMIC"))
+      (Select "Design Resources" ".\sch-27452_b.dsn" "SCHEMATIC1" "09 USB"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -64,7 +64,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 557")
-        (Scroll "698 219")
+        (Scroll "551 219")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -81,5 +81,16 @@
       (Path
          "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\IMX6SLEVK_DESIGNFILES\SCHEMATICS\SCH-27452_B.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "04 PMIC")))
+      (Page "04 PMIC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1290 24 557")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\IMX6SLEVK_DESIGNFILES\SCHEMATICS\SCH-27452_B.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "09 USB")))
   (MPSSessionName "Anas"))
