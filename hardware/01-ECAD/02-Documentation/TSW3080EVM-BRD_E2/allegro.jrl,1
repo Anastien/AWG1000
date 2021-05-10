@@ -1,0 +1,31 @@
+\t (00:00:07) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Tue May  4 23:35:56 2021
+\t (00:00:07)         Host=MSI User=Anas Pid=19092 CPUs=12
+\t (00:00:07) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\Projects\AWG1000\hardware\01-ECAD\02-Documentation\TSW3080EVM-BRD_E2\TSW3080_E2_3-30.brd
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:00:23) fillin yes 
+\w (00:00:24) WARNING(SPMHOD-28): User defined property 'ECSET_MAPPING_TAG' renamed to 'ECSET_MAPPING_TAG_UD'.  The name is the same as an ALLEGRO property.
+\i (00:00:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "TSW3080_E2_3-30"
+\d (00:00:24) Design opened: D:/Projects/AWG1000/hardware/01-ECAD/02-Documentation/TSW3080EVM-BRD_E2/TSW3080_E2_3-30.brd
+\i (00:00:24) trapsize 320
+\i (00:00:24) trapsize 329
+\i (00:00:24) trapsize 334
+\i (00:00:24) trapsize 319
+\i (00:00:24) trapsize 319
+\i (00:00:25) generaledit 
+\i (00:00:28) zoom out 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 666.87 1716.81
+\i (00:00:28) trapsize 638
+\i (00:00:28) zoom out 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) zoom out 666.87 1716.81
+\i (00:00:28) trapsize 1276
+\i (00:00:29) zoom out 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 666.86 1716.82
+\i (00:00:29) trapsize 2552
+\i (00:08:17) exit 
+\t (00:08:18)     Journal end - Tue May  4 23:44:07 2021

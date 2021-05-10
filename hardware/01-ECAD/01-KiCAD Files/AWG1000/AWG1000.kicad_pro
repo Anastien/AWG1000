@@ -326,7 +326,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "awg1000"
+    ]
   },
   "meta": {
     "filename": "AWG1000.kicad_pro",

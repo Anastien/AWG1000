@@ -1,0 +1,3 @@
+TASKS:
+    * Reading High Speed, Digital to Analog Converters Basics.
+    * Reading dac3482 datasheet and updating its section on the schematic.

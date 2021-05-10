@@ -1,0 +1,36 @@
+\t (00:00:07) allegro 17.4 S011 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Sat May  8 22:01:19 2021
+\t (00:00:07)         Host=MSI User=Anas Pid=9620 CPUs=12
+\t (00:00:07) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe D:\Projects\AWG1000\hardware\01-ECAD\02-Documentation\TSW3080EVM-BRD_E2\TSW3080_E2_3-30.brd
+\t (00:00:07) 
+   (00:00:08) Loading axlcore.cxt 
+\t (00:00:09) Opening existing design...
+\i (00:04:14) fillin yes 
+\w (00:04:15) WARNING(SPMHOD-28): User defined property 'ECSET_MAPPING_TAG' renamed to 'ECSET_MAPPING_TAG_UD'.  The name is the same as an ALLEGRO property.
+\i (00:04:15) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "TSW3080_E2_3-30"
+\d (00:04:15) Design opened: D:/Projects/AWG1000/hardware/01-ECAD/02-Documentation/TSW3080EVM-BRD_E2/TSW3080_E2_3-30.brd
+\i (00:04:15) trapsize 320
+\i (00:04:16) trapsize 329
+\i (00:04:16) trapsize 334
+\i (00:04:16) trapsize 319
+\i (00:04:16) trapsize 319
+\i (00:04:16) generaledit 
+\i (00:04:18) 3d 
+\i (00:04:21) QtSignal 3DUniFilterDialog UniFilterOuterLayersButton clicked on
+\i (00:04:23) QtSignal 3DUniFilterDialog UniFilterOkButton clicked
+\i (00:04:45) generaledit 
+\i (00:04:51) QtSignal pcb3dViewerCamMenu Top triggered
+\i (00:04:54) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMousePressEvent 715 401 715 453 1 1 0 +
+\i (00:04:54) QtSignal "2649.83" "1725.76" "79.9512"
+\i (00:04:55) QtSignal pcb3dViewer pcb3dViewerCanvas CanvasMouseReleaseEvent 1018 365 1018 417 1 +
+\i (00:04:55) QtSignal 0 0 "4470.55" "1941.93" "79.9512"
+\i (00:04:57) QtSignal pcb3dViewer pcb3dViewer closed
+\i (00:48:25) zoom fit 
+\i (00:48:25) trapsize 3643
+\i (00:48:26) zoom fit 
+\i (00:48:26) trapsize 3643
+\i (00:48:27) help 
+\i (00:48:34) exit 
+\e (00:48:35) Do you want to save the changes you made to TSW3080_E2_3-30.brd?
+\i (00:48:36) fillin no 
+\t (00:48:37)     Journal end - Sat May  8 22:49:48 2021
