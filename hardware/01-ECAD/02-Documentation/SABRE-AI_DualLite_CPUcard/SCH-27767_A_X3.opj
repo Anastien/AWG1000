@@ -1,0 +1,117 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S011 (3890763)  [9/18/2020]-[02/16/13]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\sch-27767_a_x3.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "Anas")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\sch-27767_a_x3.dsn")
+      (Path "Design Resources" ".\sch-27767_a_x3.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\sch-27767_a_x3.dsn" "SCHEMATIC1" "05 PMIC"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 379 0 329"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 669 24 347")
+        (Scroll "0 603")
+        (Zoom "152")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "06 iMX6 Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 669 24 347")
+        (Scroll "164 52")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "16 Parallel Display, MIPI Port"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 669 24 347")
+        (Scroll "0 49")
+        (Zoom "46")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "04 Main PWR"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 669 24 347")
+        (Scroll "645 614")
+        (Zoom "116")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "05 PMIC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 669 24 347")
+        (Scroll "0 190")
+        (Zoom "76")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "07 iMX6 Control, POR-RST, JTAG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 669 24 347")
+        (Scroll "0 969")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "21 Contingency Circuits"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 669 24 347")
+        (Scroll "758 439")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\PROJECTS\AWG1000\HARDWARE\01-ECAD\02-DOCUMENTATION\SABRE-AI_DUALLITE_CPUCARD\SCH-27767_A_X3.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "13 Mini PCIE")))
+  (PartMRUSelector))
