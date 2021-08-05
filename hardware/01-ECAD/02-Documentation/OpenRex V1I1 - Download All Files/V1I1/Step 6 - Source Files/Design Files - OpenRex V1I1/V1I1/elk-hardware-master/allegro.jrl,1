@@ -1,0 +1,20 @@
+\t (00:00:12) allegro 17.4 S016 Windows SPB 64-bit Edition
+\t (00:00:12)     Journal start - Thu Jul 15 16:01:10 2021
+\t (00:00:12)         Host=BB-DT-0116 User=anas.ahmed Pid=7204 CPUs=4
+\t (00:00:12) CmdLine= c:\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\anas.ahmed\Desktop\elk-hardware-master\elk-board.brd
+\t (00:00:12) 
+   (00:00:12) Loading axlcore.cxt 
+\t (00:00:13) Opening existing design...
+\e (00:00:13) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\e (00:00:13) ERROR(SPMHDB-238): The design is corrupted. It may have been copied from a different architecture using ASCII mode; copy using binary mode.
+\i (00:00:14) fillin confirm
+\t (00:00:14) Starting new design...
+   (00:00:15) Loading cmds.cxt 
+\i (00:00:15) trapsize 25280
+\i (00:00:15) trapsize 26147
+\i (00:00:15) trapsize 26458
+\i (00:00:15) trapsize 35220
+\i (00:00:15) trapsize 23778
+\i (00:00:16) generaledit 
+\i (00:00:24) exit 
+\t (00:00:25)     Journal end - Thu Jul 15 16:01:23 2021
