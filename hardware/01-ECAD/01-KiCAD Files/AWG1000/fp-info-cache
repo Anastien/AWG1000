@@ -1,4 +1,4 @@
-16259900790773
+29331919135426
 awg1000
 5-1634503-1
 
@@ -6,6 +6,13 @@ awg1000
 0
 5
 2
+awg1000
+10029449-111RLF
+
+
+0
+19
+19
 awg1000
 74404024010
 
@@ -56,12 +63,61 @@ IQXT-316-5
 6
 6
 awg1000
+JST_VH_B2P-VH-B_1x02_P3.96mm_Vertical
+JST VH PBT series connector, B2P-VH-B (http://www.jst-mfg.com/product/pdf/eng/eVH.pdf), generated with kicad-footprint-generator
+connector JST VH vertical
+0
+2
+2
+awg1000
+QFN-56-1EP_8x8mm_P0.5mm_EP4.3x4.3mm_ThermalVias
+QFN, 56 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/00002142A.pdf#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+98
+57
+awg1000
+RJ45_Amphenol_RJMG1BD3B8K1ANR
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenolcanada.com/ProductSearch/Drawings/AC/RJMG1BD3B8K1ANR.PDF
+RJ45 Magjack
+0
+14
+13
+awg1000
+Relay_DPDT_Kemet_EE2_NU
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+awg1000
+SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm_ThermalVias
+SOIC, 8 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ada4898-1_4898-2.pdf#page=29), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+20
+9
+awg1000
 TF31-50S-0.5SH(800)
 
 
 0
 50
 50
+awg1000
+Texas_R-PDSO-G8_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias
+HSOIC, 8 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HSOIC SO
+0
+23
+9
+awg1000
+USB_A_Molex_67643_Horizontal
+USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
+USB_A Female Connector receptacle
+0
+6
+5
 awg1000
 ZAY0196A
 

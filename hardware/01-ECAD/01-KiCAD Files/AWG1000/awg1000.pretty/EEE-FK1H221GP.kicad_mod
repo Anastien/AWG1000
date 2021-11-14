@@ -1,5 +1,5 @@
-(footprint "EEE-FK1H221GP" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 608C547B)
+(footprint "EEE-FK1H221GP" (version 20210623) (generator pcbnew) (layer "F.Cu")
+  (tedit 610EB614)
   (fp_text reference "REF**" (at -2.54 -5.969 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9fe6b281-44c3-4298-bb38-d53b9824e39c)
@@ -45,6 +45,11 @@
     (solder_mask_margin 0.13) (solder_paste_margin -0.13) (zone_connect 2) (tstamp 0172e95a-6743-4c4c-953e-d798a06383e8))
   (model "D:/Projects/AWG1000/hardware/02-MCAD/01-COMPONENTS/EEE-FK1H221GP.stp"
     (offset (xyz 0 0 0.9))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 180))
+  )
+  (model "C:/Projects/AWG1000/hardware/02-MCAD/01-3d library/EEE-FK1H221GP.stp"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 180))
   )
