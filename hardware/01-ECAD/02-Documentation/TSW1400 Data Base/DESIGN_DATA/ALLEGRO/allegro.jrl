@@ -1,0 +1,1241 @@
+\t (00:05:05) allegro 16.6 S019 (v16-6-112BG) Windows 32
+\t (00:05:05)     Journal start - Tue Apr 08 09:17:41 2014
+\t (00:05:05)         Host=LTA0868815 User=a0868815 Pid=864 CPUs=8
+\t (00:05:05) 
+\d (00:05:05) Database opened: H:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO/TSW1400_D.brd
+\i (00:05:05) etchedit 
+\i (00:05:11) dlib 
+\i (00:05:16) setwindow form.dlib
+\i (00:05:16) FORM dlib mechanical NO 
+\i (00:05:16) FORM dlib mechanical YES 
+\i (00:05:17) FORM dlib format NO 
+\i (00:05:18) FORM dlib mechanical NO 
+\i (00:05:18) FORM dlib mechanical YES 
+\i (00:05:19) FORM dlib shape NO 
+\i (00:05:19) FORM dlib device NO 
+\i (00:05:20) FORM dlib mechanical NO 
+\i (00:05:23) FORM dlib browse_export  
+\i (00:05:33) fillin "H:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO"
+\i (00:05:35) FORM dlib execute  
+\t (00:05:35) Starting Cadence export libraries...
+\e (00:06:05) ERROR(SPMHGE-268): dump_libraries had errors, use Viewlog to review the log file.
+\i (00:06:19) setwindow text
+\i (00:06:19) close 
+\i (00:06:21) setwindow form.dlib
+\i (00:06:21) FORM dlib cancel  
+\i (00:06:21) setwindow pcb
+\i (00:06:21) etchedit 
+\i (00:06:23) open 
+\e (00:06:23) Do you want to save the changes you made to TSW1400_D.brd?
+\i (00:06:24) fillin no 
+\i (00:06:50) fillin "sw-smd-8.dra"
+\t (00:06:50) Opening existing design...
+\i (00:06:50) trapsize 5139
+\i (00:06:50) trapsize 5022
+\i (00:06:50) trapsize 5139
+\i (00:06:51) trapsize 8813
+\d (00:06:51) Database opened: H:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO/sw-smd-8.dra
+\i (00:06:51) etchedit 
+\i (00:06:54) zoom points 
+\t (00:06:54) Pick 1st corner of the new window.
+\i (00:06:55) pick -437.418 523.149
+\t (00:06:55) last pick:  -437.418  523.149
+\t (00:06:55) Pick to complete the window.
+\i (00:06:55) pick -204.767 -298.180
+\t (00:06:56) last pick:  -204.767  -298.180
+\i (00:06:56) trapsize 4704
+\i (00:06:56) etchedit 
+\i (00:06:58) color192 
+\i (00:06:58) setwindow cvf.dialog
+\i (00:06:58) cvf layer_mode
+\i (00:06:58) setwindow pcb
+\i (00:06:58) etchedit 
+\i (00:07:02) setwindow cvf.dialog
+\i (00:07:02) cvf cancel
+\w (00:15:01) Save Pending
+\i (00:17:37) setwindow pcb
+\i (00:17:37) save_as 
+\i (00:18:29) fillin "C:\Footprints\SWITCH\SW_SM_4POS_244X244_50_TDA.dra"
+\i (00:18:29) cd "C:\Footprints\SWITCH"
+\t (00:18:30) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:18:30) etchedit 
+\i (00:18:32) delete 
+\i (00:18:38) dimension edit 
+\i (00:18:39) prepopup 204.460 315.230
+\i (00:18:43) pop dyn_option_select '@:@Delete dimensions' 
+\i (00:18:46) pick grid 59.575 254.077
+\t (00:18:46) last pick:  100.000  300.000
+\w (00:18:46) WARNING(SPMHDI-55): No dimension found.
+\i (00:18:47) pick grid 107.556 222.089
+\t (00:18:47) last pick:  100.000  200.000
+\w (00:18:47) WARNING(SPMHDI-55): No dimension found.
+\i (00:18:49) drag_start grid -181.273 223.030
+\i (00:18:49) drag_stop 292.896 333.105
+\w (00:18:49) WARNING(SPMHDI-55): No dimension found.
+\i (00:18:50) prepopup 287.251 335.927
+\i (00:18:51) done 
+\i (00:18:51) etchedit 
+\i (00:18:53) delete 
+\i (00:18:56) drag_start grid -208.557 207.036
+\i (00:18:56) drag_stop 182.821 320.874
+\i (00:18:58) drag_start grid -275.355 183.516
+\i (00:18:59) drag_stop -166.220 -160.821
+\i (00:19:11) pick grid 100.029 -228.560
+\t (00:19:11) last pick:  100.000  -200.000
+\t (00:19:11) Text "Value*"
+\i (00:19:13) prepopup 313.594 -35.693
+\i (00:19:13) oops 
+\i (00:19:15) delete 
+\i (00:19:19) delete 
+\i (00:19:21) drag_start grid -100.364 197.628
+\i (00:19:22) drag_stop 126.372 271.952
+\i (00:19:22) prepopup 129.195 288.887
+\i (00:19:23) done 
+\i (00:19:23) etchedit 
+\i (00:19:26) color192 
+\i (00:19:26) setwindow cvf.dialog
+\i (00:19:26) cvf layer_mode
+\i (00:19:26) setwindow pcb
+\i (00:19:26) etchedit 
+\i (00:19:30) setwindow cvf.dialog
+\i (00:19:30) cvf global_invisible
+\i (00:19:31) cvf layer_tree_item 'Package Geometry'
+\i (00:19:33) cvf layers_visible package_geometry/assembly_top TRUE
+\i (00:19:40) cvf select_color_cell 80
+\i (00:19:41) cvf layers_color package_geometry/assembly_top 81
+\i (00:19:49) cvf layer_tree_item 'Stack-Up'
+\i (00:19:51) cvf select_color_cell 0
+\i (00:19:54) cvf layers_visible stack-up pin/top TRUE
+\i (00:20:00) cvf apply
+\i (00:20:01) cvf okay
+\i (00:20:04) setwindow pcb
+\i (00:20:04) xsection 
+   (00:20:04) Loading floor.cxt 
+   (00:20:04) Loading skillExt.cxt 
+\i (00:20:06) setwindow form.fplyrstack
+\i (00:20:06) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:08) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:09) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:10) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:11) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:12) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:13) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:14) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:15) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:16) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:17) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:18) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:19) FORM fplyrstack lsgrid rprepopup 10,number 
+\i (00:20:20) FORM fplyrstack lsgrid rpopup 10,number 'Remove Layer' 
+\i (00:20:21) FORM fplyrstack lsgrid rprepopup 11,number 
+\i (00:20:22) FORM fplyrstack lsgrid rpopup 11,number 'Remove Layer' 
+\i (00:20:23) FORM fplyrstack lsgrid rprepopup 12,number 
+\i (00:20:24) FORM fplyrstack lsgrid rpopup 12,number 'Remove Layer' 
+\i (00:20:25) FORM fplyrstack lsgrid cell 9,number 
+\i (00:20:25) FORM fplyrstack lsgrid rprepopup 9,number 
+\i (00:20:26) FORM fplyrstack lsgrid rpopup 9,number 'Remove Layer' 
+\i (00:20:27) FORM fplyrstack lsgrid cell 4,number 
+\i (00:20:28) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:29) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:30) FORM fplyrstack lsgrid rprepopup 5,number 
+\i (00:20:31) FORM fplyrstack lsgrid rpopup 5,number 'Remove Layer' 
+\i (00:20:33) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:34) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:35) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:36) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:37) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:38) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:39) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:40) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:40) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:41) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:42) FORM fplyrstack lsgrid cell 4,number 
+\i (00:20:43) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:44) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:44) FORM fplyrstack lsgrid cell 4,number 
+\i (00:20:45) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:46) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:47) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:48) FORM fplyrstack lsgrid rpopup 4,number 'Remove Layer' 
+\i (00:20:49) FORM fplyrstack lsgrid cell 4,number 
+\i (00:20:49) FORM fplyrstack lsgrid rprepopup 4,number 
+\i (00:20:55) FORM fplyrstack apply  
+\i (00:20:56) FORM fplyrstack done  
+\i (00:20:56) setwindow pcb
+\i (00:20:56) etchedit 
+\i (00:20:59) zoom points 
+\t (00:20:59) Pick 1st corner of the new window.
+\i (00:21:01) pick -223.610 -219.152
+\t (00:21:01) last pick:  -223.610  -219.152
+\t (00:21:01) Pick to complete the window.
+\i (00:21:02) pick 86.858 200.451
+\t (00:21:02) last pick:  86.858  200.451
+\i (00:21:02) trapsize 2403
+\i (00:21:02) etchedit 
+\i (00:21:09) color192 
+\i (00:21:09) setwindow cvf.dialog
+\i (00:21:09) cvf layer_mode
+\i (00:21:09) setwindow pcb
+\i (00:21:09) etchedit 
+\i (00:21:11) setwindow cvf.dialog
+\i (00:21:11) cvf layer_tree_item 'Stack-Up'
+\i (00:21:17) cvf select_color_cell 46
+\i (00:21:18) cvf layers_color stack-up pin/top 47
+\i (00:21:20) cvf apply
+\i (00:21:21) cvf okay
+\i (00:21:22) setwindow pcb
+\i (00:21:22) show element 
+\i (00:21:25) setwindow form.find
+\i (00:21:25) FORM find all_off  
+\i (00:21:26) FORM find pins YES 
+\i (00:21:27) setwindow pcb
+\i (00:21:27) pick grid 84.483 154.790
+\t (00:21:27) last pick:  100.000  200.000
+\i (00:21:37) setwindow text
+\i (00:21:37) close 
+\i (00:21:41) setwindow pcb
+\i (00:21:41) padeditdb 
+\i (00:21:42) pick grid 90.732 141.812
+\t (00:21:42) last pick:  100.000  100.000
+\i (00:21:46) setwindow form.mini
+\i (00:21:46) FORM mini pad_stack_edit  
+\i (00:21:53) setwindow form.padedit
+\i (00:21:53) FORM padedit layers  
+\i (00:21:59) FORM padedit parameters  
+\i (00:22:01) FORM padedit units Millimeter 
+\i (00:22:02) fillin yes 
+\w (00:22:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:22:05) FORM padedit layers  
+\i (00:22:11) FORM padedit grid row soldermask_top 
+\i (00:22:18) FORM padedit grid row pastemask_top 
+\i (00:22:21) pse_save_as 
+\i (00:22:47) fillin "menu_cancel"
+\i (00:22:49) pse_exit
+\i (00:22:49) setwindow pcb
+\i (00:22:49) prepopup 193.109 159.115
+\i (00:22:50) cancel 
+\i (00:22:50) etchedit 
+\i (00:22:54) replace padstack 
+\i (00:22:55) pick grid 65.738 148.060
+\t (00:22:55) last pick:  100.000  100.000
+\i (00:22:56) setwindow form.mini
+\i (00:22:56) FORM mini newname_browse  
+\i (00:23:04) fillin "Smd30x50"
+\w (00:23:04) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:23:05) FORM mini replace  
+\i (00:23:08) FORM mini replace  
+\i (00:23:08) setwindow pcb
+\i (00:23:08) prepopup 246.460 10.115
+\i (00:23:09) done 
+\t (00:23:09) Performing DRC...
+\t (00:23:09) No DRC errors detected.
+\i (00:23:09) etchedit 
+\i (00:23:10) show element 
+\i (00:23:13) save 
+\i (00:23:14) fillin yes 
+\t (00:23:15) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:23:15) etchedit 
+\i (00:23:17) show measure 
+\i (00:23:20) pick grid 72.948 143.254
+\t (00:23:20) last pick:  75.000  150.000
+\i (00:23:21) pick grid 71.025 -146.575
+\t (00:23:21) last pick:  75.000  -150.000
+\i (00:23:23) pick grid 26.806 -145.133
+\t (00:23:23) last pick:  25.000  -150.000
+\i (00:23:25) prepopup 229.157 -94.665
+\i (00:23:26) done 
+\i (00:23:26) etchedit 
+\i (00:23:27) show measure 
+\i (00:23:31) pick grid 130.144 5.790
+\t (00:23:31) last pick:  125.000  0.000
+\i (00:23:32) pick grid -129.404 -21.607
+\t (00:23:32) last pick:  -125.000  -25.000
+\i (00:23:41) pick grid 94.096 105.764
+\t (00:23:41) last pick:  100.000  100.000
+\i (00:23:43) pick grid 105.632 -106.201
+\t (00:23:43) last pick:  100.000  -100.000
+\i (00:24:05) prepopup 224.351 20.690
+\i (00:24:05) done 
+\i (00:24:06) etchedit 
+\i (00:24:09) vertex 
+\i (00:24:12) pick grid 131.586 105.764
+\t (00:24:12) last pick:  125.000  100.000
+\t (00:24:12) last pick:  129.920  106.300
+\i (00:24:21) ipick 0 15.7 
+\t (00:24:21) last pick:  129.920  122.000
+\t (00:24:21) No DRC errors detected.
+\i (00:24:24) pick grid -128.923 106.244
+\t (00:24:24) last pick:  -125.000  100.000
+\t (00:24:24) last pick:  -129.920  106.300
+\i (00:24:27) ipick 0 15.7 
+\t (00:24:27) last pick:  -129.920  122.000
+\t (00:24:27) No DRC errors detected.
+\i (00:24:30) pick grid -128.923 106.725
+\t (00:24:30) last pick:  -125.000  100.000
+\t (00:24:30) last pick:  -129.920  106.300
+\i (00:24:33) ipick 0 15.7 
+\t (00:24:33) last pick:  -129.920  122.000
+\t (00:24:33) No DRC errors detected.
+\i (00:24:36) pick grid 130.144 -106.201
+\t (00:24:36) last pick:  125.000  -100.000
+\t (00:24:36) last pick:  129.920  -106.300
+\i (00:24:39) ipick 0 -15.7 
+\t (00:24:39) last pick:  129.920  -122.000
+\t (00:24:39) No DRC errors detected.
+\i (00:24:42) pick grid -129.884 -107.162
+\t (00:24:42) last pick:  -125.000  -100.000
+\t (00:24:42) last pick:  -129.920  -106.300
+\i (00:24:45) ipick 0 -15.7 
+\t (00:24:45) last pick:  -129.920  -122.000
+\t (00:24:45) No DRC errors detected.
+\i (00:24:47) prepopup 232.522 50.009
+\i (00:24:47) done 
+\i (00:24:48) etchedit 
+\i (00:24:49) show measure 
+\i (00:24:52) pick grid 117.167 121.625
+\t (00:24:52) last pick:  125.000  125.000
+\i (00:24:53) pick grid 108.035 -122.062
+\t (00:24:53) last pick:  100.000  -125.000
+\i (00:24:56) prepopup 232.041 40.877
+\i (00:24:56) done 
+\i (00:24:56) etchedit 
+\i (00:24:58) show measure 
+\i (00:25:00) pick grid -128.442 3.867
+\t (00:25:00) last pick:  -125.000  0.000
+\i (00:25:02) pick grid 130.144 -8.149
+\t (00:25:02) last pick:  125.000  0.000
+\i (00:25:23) prepopup 219.064 91.825
+\i (00:25:24) done 
+\i (00:25:24) etchedit 
+\i (00:25:28) vertex 
+\i (00:25:31) pick grid -129.884 122.106
+\t (00:25:31) last pick:  -125.000  125.000
+\t (00:25:31) last pick:  -129.920  122.000
+\i (00:25:36) ipick 7.92 
+\t (00:25:36) last pick:  -122.000  122.000
+\t (00:25:36) No DRC errors detected.
+\i (00:25:39) pick grid 129.664 122.106
+\t (00:25:39) last pick:  125.000  125.000
+\t (00:25:39) last pick:  129.920  122.000
+\i (00:25:44) ipick -7.92 
+\t (00:25:44) last pick:  122.000  122.000
+\t (00:25:44) No DRC errors detected.
+\i (00:25:46) pick grid -129.404 120.664
+\t (00:25:46) last pick:  -125.000  125.000
+\t (00:25:46) last pick:  -129.920  122.000
+\i (00:25:49) ipick 7.92 
+\t (00:25:49) last pick:  -122.000  122.000
+\t (00:25:49) No DRC errors detected.
+\i (00:25:51) pick grid -129.884 -122.542
+\t (00:25:51) last pick:  -125.000  -125.000
+\t (00:25:51) last pick:  -129.920  -122.000
+\i (00:25:55) ipick 7.92 
+\t (00:25:55) last pick:  -122.000  -122.000
+\t (00:25:55) No DRC errors detected.
+\i (00:25:58) pick grid 132.067 -123.023
+\t (00:25:58) last pick:  125.000  -125.000
+\t (00:25:58) last pick:  129.920  -122.000
+\i (00:26:05) ipick 0 -7.92 
+\t (00:26:05) last pick:  129.920  -129.920
+\t (00:26:05) No DRC errors detected.
+\i (00:26:07) prepopup 144.564 -106.681
+\i (00:26:08) oops 
+\t (00:26:08) last pick:  129.920  -122.000
+\i (00:26:12) ipick -7.92 
+\t (00:26:12) last pick:  122.000  -122.000
+\t (00:26:12) No DRC errors detected.
+\i (00:26:14) prepopup 230.599 -66.788
+\i (00:26:17) done 
+\i (00:26:17) etchedit 
+\i (00:26:20) zoom points 
+\t (00:26:21) Pick 1st corner of the new window.
+\i (00:26:21) shape add 
+\i (00:26:23) zoom points 
+\t (00:26:23) Pick 1st corner of the new window.
+\i (00:26:24) zoom points 
+\t (00:26:24) Pick 1st corner of the new window.
+\i (00:26:25) pick -137.094 194.202
+\t (00:26:25) last pick:  -137.094  194.202
+\t (00:26:25) Pick to complete the window.
+\i (00:26:26) pick 2.774 25.015
+\t (00:26:26) last pick:  2.774  25.015
+\i (00:26:26) trapsize 969
+\i (00:26:30) define grid 
+\t (00:26:30) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:26:35) setwindow form.grid
+\i (00:26:35) FORM grid non_etch non_etch_x_grids 5 
+\i (00:26:36) FORM grid non_etch non_etch_y_grids 5 
+\i (00:26:36) FORM grid all_etch all_etch_x_grids 5 
+\i (00:26:38) FORM grid all_etch all_etch_y_grids 5 
+\i (00:26:38) FORM grid done  
+\i (00:26:40) setwindow pcb
+\i (00:26:40) move 
+\t (00:26:40) Select element(s) to move.
+\i (00:26:42) drag_start grid -79.148 110.481
+\i (00:26:43) drag_stop 86.163 103.310
+\i (00:26:46) pick grid 76.667 105.442
+\t (00:26:46) last pick:  75.000  105.000
+\t (00:26:46) Element has no origin, using pick.
+\t (00:26:46) Element has no origin, using pick.
+\t (00:26:46) Element has no origin, using pick.
+\t (00:26:46) Element has no origin, using pick.
+\t (00:26:46) Pick new location for the element(s).
+\i (00:26:50) ipick 0 10 
+\t (00:26:50) last pick:  75.000  115.000
+\i (00:26:53) roam start
+\i (00:26:53) roam y 128
+\i (00:26:53) roam y 64
+\i (00:26:53) roam y 64
+\i (00:26:53) roam y 48
+\i (00:26:53) roam y 48
+\i (00:26:53) roam y 48
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 16
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 32
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 48
+\i (00:26:54) roam x 16
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 32
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 64
+\i (00:26:54) roam y 48
+\i (00:26:54) roam y 16
+\i (00:26:55) roam end
+\i (00:26:56) drag_start grid -68.426 -102.534
+\i (00:26:57) drag_stop 67.816 -115.131
+\i (00:26:58) pick grid 67.816 -115.131
+\t (00:26:58) last pick:  70.000  -115.000
+\t (00:26:58) Element has no origin, using pick.
+\t (00:26:58) Element has no origin, using pick.
+\t (00:26:58) Element has no origin, using pick.
+\t (00:26:58) Element has no origin, using pick.
+\t (00:26:58) Pick new location for the element(s).
+\i (00:27:01) ipick 0 -10 
+\t (00:27:01) last pick:  70.000  -125.000
+\i (00:27:02) prepopup 4.443 -93.813
+\i (00:27:03) done 
+\i (00:27:03) etchedit 
+\i (00:27:05) move 
+\t (00:27:05) Select element(s) to move.
+\i (00:27:07) drag_start grid -35.286 -89.162
+\i (00:27:07) drag_stop 34.870 -103.116
+\i (00:27:08) pick grid 29.637 -101.372
+\t (00:27:08) last pick:  30.000  -100.000
+\t (00:27:08) Pick new location for the element(s).
+\i (00:27:10) ipick 0 10 
+\t (00:27:10) last pick:  30.000  -90.000
+\i (00:27:11) prepopup 26.536 -101.953
+\i (00:27:13) done 
+\i (00:27:13) etchedit 
+\i (00:27:16) zoom out 
+\i (00:27:16) setwindow pcb
+\i (00:27:16) zoom out 17.040 -119.976
+\i (00:27:16) trapsize 1938
+\i (00:27:17) zoom out 
+\i (00:27:17) setwindow pcb
+\i (00:27:17) zoom out 17.040 -119.977
+\i (00:27:17) trapsize 3876
+\i (00:27:17) roam start
+\i (00:27:17) roam x 48
+\i (00:27:17) roam y -96
+\i (00:27:18) roam x 16
+\i (00:27:18) roam x 16
+\i (00:27:18) roam y 32
+\i (00:27:18) roam y 32
+\i (00:27:18) roam y 32
+\i (00:27:18) roam end
+\i (00:27:18) roam start
+\i (00:27:18) roam x 16
+\i (00:27:18) roam y -48
+\i (00:27:18) roam x 48
+\i (00:27:18) roam x 48
+\i (00:27:18) roam y -16
+\i (00:27:18) roam x 48
+\i (00:27:18) roam y -16
+\i (00:27:19) roam end
+\i (00:27:20) color192 
+\i (00:27:20) setwindow cvf.dialog
+\i (00:27:20) cvf layer_mode
+\i (00:27:20) setwindow pcb
+\i (00:27:20) etchedit 
+\i (00:27:23) setwindow cvf.dialog
+\i (00:27:23) cvf layer_tree_item 'Package Geometry'
+\i (00:27:24) cvf layers_visible package_geometry/place_bound_top TRUE
+\i (00:27:29) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:27:31) cvf select_color_cell 27
+\i (00:27:32) cvf layers_color package_geometry/silkscreen_top 28
+\i (00:27:33) cvf apply
+\i (00:27:33) cvf okay
+\i (00:27:35) setwindow pcb
+\i (00:27:35) delete 
+\i (00:27:38) pick grid 154.638 165.491
+\t (00:27:38) last pick:  155.000  165.000
+\i (00:27:38) pick grid 142.235 161.615
+\t (00:27:38) last pick:  140.000  160.000
+\t (00:27:38) Shape "Package Geometry/Place_Bound_Top"
+\i (00:27:40) pick grid 143.010 98.049
+\t (00:27:40) last pick:  145.000  100.000
+\t (00:27:40) Line "Package Geometry/Silkscreen_Top"
+\i (00:27:40) prepopup 284.871 137.584
+\i (00:27:41) done 
+\i (00:27:41) etchedit 
+\i (00:27:44) zoom points 
+\t (00:27:44) Pick 1st corner of the new window.
+\i (00:27:44) pick -301.179 246.111
+\t (00:27:44) last pick:  -301.179  246.111
+\t (00:27:44) Pick to complete the window.
+\i (00:27:45) pick -131.410 -239.938
+\t (00:27:45) last pick:  -131.410  -239.938
+\i (00:27:45) trapsize 2784
+\i (00:27:45) etchedit 
+\i (00:27:47) show element 
+\i (00:27:49) setwindow form.find
+\i (00:27:49) FORM find pins NO 
+\i (00:27:49) FORM find text YES 
+\i (00:27:51) setwindow pcb
+\i (00:27:51) pick grid 79.086 -106.873
+\t (00:27:51) last pick:  80.000  -105.000
+\i (00:27:54) prepopup 207.697 -55.651
+\i (00:27:56) reject 
+\i (00:28:03) prepopup 226.070 -55.095
+\i (00:28:04) done 
+\i (00:28:04) etchedit 
+\i (00:28:08) change 
+\i (00:28:10) setwindow form.find
+\i (00:28:10) FORM find all_off  
+\i (00:28:11) FORM find text YES 
+\i (00:28:13) setwindow form.mini
+\i (00:28:13) FORM mini apply_size YES 
+\i (00:28:16) FORM mini text_block 6 
+\i (00:28:17) setwindow pcb
+\i (00:28:17) drag_start grid -80.703 -83.489
+\i (00:28:18) drag_stop 98.572 -98.522
+\e (00:28:18) ERROR(SPMHGE-554): Text already matches option panel settings.
+\t (00:28:18) Changed 4 items out of 8 items found.
+\i (00:28:19) pick grid -77.363 86.878
+\t (00:28:19) last pick:  -75.000  85.000
+\t (00:28:19) No DRC errors detected.
+\t (00:28:19) Changed 1 items out of 1 items found.
+\i (00:28:21) prepopup 183.756 -57.322
+\i (00:28:22) done 
+\i (00:28:22) etchedit 
+\i (00:28:30) save 
+\i (00:28:31) fillin yes 
+\t (00:28:32) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:28:32) etchedit 
+\i (00:28:41) zcopy shape 
+\t (00:28:41) Select cline, shape, rectangle or closed polygon.
+   (00:28:41) Loading cmds.cxt 
+\i (00:28:47) setwindow form.mini
+\i (00:28:47) FORM mini class_name BOUNDARY 
+\i (00:28:53) FORM mini class_name PACKAGE GEOMETRY 
+\i (00:28:57) FORM mini subclass_name PLACE_BOUND_TOP 
+\i (00:28:58) FORM mini expand YES 
+\i (00:29:03) FORM mini offset 10.000 
+\i (00:29:05) setwindow pcb
+\i (00:29:05) zoom out 1 
+\i (00:29:05) setwindow pcb
+\i (00:29:05) zoom out 419.821 -33.938
+\i (00:29:05) trapsize 5568
+\i (00:29:07) pick 120.552 -124.132
+\t (00:29:07) last pick:  120.552  -124.132
+\i (00:29:08) prepopup 263.082 60.711
+\i (00:29:08) pop Done 
+\i (00:29:08) etchedit 
+\i (00:29:10) zoom points 
+\t (00:29:10) Pick 1st corner of the new window.
+\i (00:29:10) pick -286.994 204.354
+\t (00:29:10) last pick:  -286.994  204.354
+\t (00:29:10) Pick to complete the window.
+\i (00:29:11) pick -186.778 -180.922
+\t (00:29:11) last pick:  -186.778  -180.922
+\i (00:29:11) trapsize 2207
+\i (00:29:11) etchedit 
+\i (00:29:14) shape edit boundary 
+\i (00:29:16) pick grid -124.145 132.418
+\t (00:29:16) last pick:  -125.000  130.000
+\t (00:29:16) Pick the edit starting point on the shape boundary.
+\i (00:29:18) pick grid -130.324 131.977
+\t (00:29:18) last pick:  -130.000  130.000
+\t (00:29:18) Pick the next vertex or the closing point on the shape.
+\i (00:29:19) prepopup -132.531 168.607
+\i (00:29:20) oops 
+\t (00:29:20) last pick:  -125.000  130.000
+\t (00:29:20) Pick the edit starting point on the shape or void boundary.
+\i (00:29:20) shape edit boundary 
+\t (00:29:20) Pick the edit starting point on the shape or void boundary.
+\i (00:29:22) pick grid 132.705 132.859
+\t (00:29:22) last pick:  135.000  135.000
+\t (00:29:22) Pick the edit starting point on the shape boundary.
+\i (00:29:24) pick grid 132.705 132.859
+\t (00:29:24) last pick:  135.000  135.000
+\t (00:29:24) Pick the next vertex or the closing point on the shape.
+\i (00:29:32) prepopup 146.386 173.461
+\i (00:29:33) next 
+\i (00:29:33) shape edit boundary 
+\t (00:29:33) Pick the edit starting point on the shape or void boundary.
+\i (00:29:36) grid toggle 
+\i (00:29:38) shape add rect 
+\i (00:29:48) zoom points 
+\t (00:29:48) Pick 1st corner of the new window.
+\i (00:29:48) pick -170.926 194.203
+\t (00:29:48) last pick:  -170.926  194.203
+\t (00:29:48) Pick to complete the window.
+\i (00:29:49) pick 95.193 -1.744
+\t (00:29:49) last pick:  95.193  -1.744
+\i (00:29:49) trapsize 1122
+\i (00:29:53) pick grid -94.388 185.000
+\t (00:29:53) last pick:  -95.000  185.000
+\i (00:29:58) pick grid 93.030 127.540
+\t (00:29:58) last pick:  95.000  130.000
+\i (00:29:59) roam start
+\i (00:29:59) roam x 16
+\i (00:29:59) roam y 112
+\i (00:29:59) roam x 16
+\i (00:29:59) roam y 256
+\i (00:29:59) roam x 48
+\i (00:29:59) roam y 224
+\i (00:29:59) roam x 32
+\i (00:29:59) roam y 192
+\i (00:29:59) roam x 32
+\i (00:29:59) roam y 128
+\i (00:29:59) roam x 16
+\i (00:29:59) roam y 80
+\i (00:29:59) roam x 16
+\i (00:29:59) roam y 32
+\i (00:29:59) roam x -64
+\i (00:29:59) roam y 16
+\i (00:29:59) roam x -144
+\i (00:30:00) roam end
+\i (00:30:05) pick grid -94.556 -130.469
+\t (00:30:05) last pick:  -95.000  -130.000
+\i (00:30:10) pick grid 92.637 -184.786
+\t (00:30:10) last pick:  95.000  -185.000
+\i (00:30:10) prepopup 0.836 -202.967
+\i (00:30:11) done 
+\i (00:30:11) etchedit 
+\i (00:30:13) zoom out 
+\i (00:30:13) setwindow pcb
+\i (00:30:13) zoom out -10.387 -137.427
+\i (00:30:13) trapsize 2245
+\i (00:30:15) color192 
+\i (00:30:15) setwindow cvf.dialog
+\i (00:30:15) cvf layer_mode
+\i (00:30:15) setwindow pcb
+\i (00:30:15) etchedit 
+\i (00:30:17) setwindow cvf.dialog
+\i (00:30:17) cvf layers_visible package_geometry/assembly_top FALSE
+\i (00:30:19) cvf apply
+\i (00:30:20) cvf okay
+\i (00:30:23) setwindow form.find
+\i (00:30:23) FORM find all_off  
+\i (00:30:25) setwindow pcb
+\i (00:30:25) move 
+\t (00:30:25) Select element(s) to move.
+\i (00:30:28) setwindow form.find
+\i (00:30:28) FORM find all_off  
+\i (00:30:29) FORM find text YES 
+\i (00:30:31) setwindow pcb
+\i (00:30:31) pick grid -74.579 -96.127
+\t (00:30:31) last pick:  -75.000  -95.000
+\t (00:30:31) last pick:  -80.000  -105.000
+\t (00:30:31) Pick new location for the element(s).
+\i (00:30:33) pick grid -117.225 -172.890
+\t (00:30:33) last pick:  -115.000  -175.000
+\i (00:30:34) pick grid 78.946 -97.025
+\t (00:30:34) last pick:  80.000  -95.000
+\t (00:30:34) last pick:  70.000  -105.000
+\t (00:30:34) Pick new location for the element(s).
+\i (00:30:36) pick grid 107.227 -167.503
+\t (00:30:36) last pick:  105.000  -170.000
+\i (00:30:37) drag_start grid -31.484 -88.047
+\i (00:30:37) drag_stop 37.647 -96.127
+\i (00:30:38) pick grid 26.424 -96.127
+\t (00:30:38) last pick:  25.000  -95.000
+\t (00:30:38) Pick new location for the element(s).
+\i (00:30:40) pick grid 24.180 -207.007
+\t (00:30:40) last pick:  25.000  -205.000
+\i (00:30:41) pick grid -109.145 -176.930
+\t (00:30:41) last pick:  -110.000  -175.000
+\t (00:30:41) last pick:  -115.000  -175.000
+\t (00:30:41) Pick new location for the element(s).
+\i (00:30:43) pick grid -80.415 -212.842
+\t (00:30:43) last pick:  -80.000  -215.000
+\i (00:30:44) pick grid 111.716 -168.401
+\t (00:30:44) last pick:  110.000  -170.000
+\t (00:30:44) last pick:  105.000  -170.000
+\t (00:30:44) Pick new location for the element(s).
+\i (00:30:46) pick grid 64.581 -212.842
+\t (00:30:46) last pick:  65.000  -215.000
+\i (00:30:47) drag_start grid -87.149 -202.069
+\i (00:30:48) drag_stop 97.800 -221.372
+\i (00:30:48) pick grid 76.253 -212.842
+\t (00:30:48) last pick:  75.000  -215.000
+\t (00:30:48) Pick new location for the element(s).
+\i (00:30:50) pick grid 76.253 -212.394
+\t (00:30:50) last pick:  75.000  -210.000
+\i (00:30:56) prepopup -247.408 -149.996
+\i (00:30:56) done 
+\i (00:30:56) etchedit 
+\i (00:30:58) zoom out 
+\i (00:30:58) setwindow pcb
+\i (00:30:58) zoom out -10.386 -137.426
+\i (00:30:58) trapsize 4489
+\i (00:30:59) roam start
+\i (00:30:59) roam x 48
+\i (00:30:59) roam y -176
+\i (00:30:59) roam x 16
+\i (00:30:59) roam y -16
+\i (00:30:59) roam x 16
+\i (00:30:59) roam y -16
+\i (00:30:59) roam end
+\i (00:31:04) move 
+\t (00:31:04) Select element(s) to move.
+\i (00:31:07) pick grid -73.232 82.089
+\t (00:31:07) last pick:  -75.000  80.000
+\t (00:31:07) last pick:  -90.000  75.000
+\t (00:31:07) Pick new location for the element(s).
+\i (00:31:09) pick grid -177.378 80.294
+\t (00:31:09) last pick:  -175.000  80.000
+\i (00:31:10) prepopup 382.856 52.462
+\i (00:31:11) done 
+\i (00:31:11) etchedit 
+\i (00:31:15) change 
+\i (00:31:18) setwindow form.find
+\i (00:31:18) FORM find lines YES 
+\i (00:31:20) setwindow form.mini
+\i (00:31:20) FORM mini apply_size NO 
+\i (00:31:20) FORM mini apply_width YES 
+\i (00:31:25) FORM mini line_width 7.000 
+\i (00:31:26) setwindow pcb
+\i (00:31:26) pick grid -104.655 -101.962
+\t (00:31:26) last pick:  -105.000  -100.000
+\i (00:31:27) pick grid -112.735 -93.882
+\t (00:31:28) last pick:  -115.000  -95.000
+\i (00:31:30) setwindow form.find
+\i (00:31:30) FORM find all_on  
+\i (00:31:33) FORM find shapes NO 
+\i (00:31:35) setwindow pcb
+\i (00:31:35) pick grid -115.429 -86.699
+\t (00:31:35) last pick:  -115.000  -85.000
+\i (00:31:35) pick grid -116.327 -89.392
+\t (00:31:35) last pick:  -115.000  -90.000
+\i (00:31:36) drag_start grid -105.553 82.089
+\i (00:31:37) drag_stop 102.739 -81.312
+\i (00:31:42) prepopup 289.484 -10.385
+\i (00:31:43) cancel 
+\i (00:31:43) etchedit 
+\i (00:31:45) zoom fit 
+\i (00:31:45) trapsize 2352
+\i (00:31:52) shape merge shapes 
+\t (00:31:52) Pick primary shape to merge to
+\i (00:31:55) pick grid 3.141 148.756
+\t (00:31:55) last pick:  5.000  150.000
+\t (00:31:55) Pick shapes to be merged
+\i (00:31:56) pick grid 6.435 107.824
+\t (00:31:56) last pick:  5.000  110.000
+\i (00:31:57) pick grid -5.798 -160.821
+\t (00:31:57) last pick:  -5.000  -160.000
+\i (00:31:58) prepopup 260.965 67.363
+\i (00:31:58) done 
+\i (00:31:59) etchedit 
+\i (00:32:00) color192 
+\i (00:32:00) setwindow cvf.dialog
+\i (00:32:00) cvf layer_mode
+\i (00:32:00) setwindow pcb
+\i (00:32:00) etchedit 
+\i (00:32:05) setwindow cvf.dialog
+\i (00:32:05) cvf layers_visible package_geometry/place_bound_top FALSE
+\i (00:32:08) cvf apply
+\i (00:32:11) cvf okay
+\i (00:32:13) setwindow pcb
+\i (00:32:13) color192 
+\i (00:32:13) setwindow cvf.dialog
+\i (00:32:13) cvf layer_mode
+\i (00:32:13) setwindow pcb
+\i (00:32:13) etchedit 
+\i (00:32:16) setwindow cvf.dialog
+\i (00:32:16) cvf layers_visible package_geometry/place_bound_top TRUE
+\i (00:32:17) cvf okay
+\i (00:32:19) setwindow pcb
+\i (00:32:19) add line 
+\i (00:32:26) setwindow form.mini
+\i (00:32:26) FORM mini subclass SILKSCREEN_TOP 
+\i (00:32:30) FORM mini line_width 7.000 
+\i (00:32:37) setwindow pcb
+\i (00:32:37) pick grid -96.130 -130.239
+\t (00:32:37) last pick:  -95.000  -130.000
+\i (00:32:38) pick grid -127.652 -131.180
+\t (00:32:38) last pick:  -130.000  -130.000
+\i (00:32:43) pick grid -129.534 128.525
+\t (00:32:43) last pick:  -130.000  130.000
+\i (00:32:45) pick grid -102.247 129.466
+\t (00:32:45) last pick:  -100.000  130.000
+\i (00:32:45) prepopup -99.424 129.937
+\i (00:32:46) next 
+\i (00:32:50) pick grid 95.826 129.466
+\t (00:32:50) last pick:  95.000  130.000
+\i (00:32:52) pick grid 132.523 128.996
+\t (00:32:52) last pick:  135.000  130.000
+\i (00:32:55) pick grid 135.346 -132.121
+\t (00:32:56) last pick:  135.000  -130.000
+\i (00:32:59) pick grid 97.237 -131.651
+\t (00:32:59) last pick:  95.000  -130.000
+\i (00:33:01) prepopup 227.090 27.372
+\i (00:33:01) done 
+\i (00:33:01) etchedit 
+\i (00:33:11) color192 
+\i (00:33:11) setwindow cvf.dialog
+\i (00:33:11) cvf layer_mode
+\i (00:33:11) setwindow pcb
+\i (00:33:11) etchedit 
+\i (00:33:13) setwindow cvf.dialog
+\i (00:33:13) cvf layers_visible package_geometry/place_bound_top FALSE
+\i (00:33:15) cvf apply
+\i (00:33:16) cvf okay
+\i (00:33:18) setwindow pcb
+\i (00:33:18) show element 
+\i (00:33:20) setwindow form.find
+\i (00:33:20) FORM find all_on  
+\i (00:33:23) setwindow pcb
+\i (00:33:23) pick grid 71.361 70.186
+\t (00:33:23) last pick:  70.000  70.000
+\i (00:33:25) setwindow text
+\i (00:33:25) close 
+\i (00:33:28) setwindow pcb
+\i (00:33:28) change 
+\w (00:33:30) Save Pending
+\i (00:33:31) setwindow form.find
+\i (00:33:31) FORM find lines YES 
+\i (00:33:34) setwindow pcb
+\i (00:33:34) pick grid 84.534 -70.018
+\t (00:33:34) last pick:  85.000  -70.000
+\i (00:33:37) prepopup 218.621 -41.789
+\i (00:33:37) done 
+\t (00:33:37) Performing autosave...
+\t (00:33:37) Autosave successful
+\i (00:33:37) etchedit 
+\i (00:33:39) move 
+\t (00:33:39) Select element(s) to move.
+\i (00:33:45) delete 
+\i (00:33:48) pick grid -108.363 -103.892
+\t (00:33:48) last pick:  -110.000  -105.000
+\t (00:33:48) Shape "Package Geometry/Silkscreen_Top"
+\i (00:33:49) prepopup 309.424 -67.195
+\i (00:33:51) done 
+\i (00:33:51) etchedit 
+\i (00:33:58) add line 
+\i (00:34:04) pick grid -98.483 -129.298
+\t (00:34:04) last pick:  -100.000  -130.000
+\t (00:34:04) last pick:  -95.000  -130.000
+\i (00:34:07) pick grid -127.652 -96.365
+\t (00:34:07) last pick:  -130.000  -95.000
+\i (00:34:08) prepopup -129.064 -96.835
+\i (00:34:09) done 
+\i (00:34:09) etchedit 
+\i (00:34:11) zoom points 
+\t (00:34:11) Pick 1st corner of the new window.
+\i (00:34:12) pick -254.212 10.435
+\t (00:34:12) last pick:  -254.212  10.435
+\t (00:34:12) Pick to complete the window.
+\i (00:34:12) pick -181.287 -175.876
+\t (00:34:12) last pick:  -181.287  -175.876
+\i (00:34:12) trapsize 1067
+\i (00:34:12) etchedit 
+\i (00:34:13) delete 
+\i (00:34:15) setwindow form.find
+\i (00:34:15) FORM find all_off  
+\i (00:34:16) FORM find other_segs YES 
+\i (00:34:17) setwindow pcb
+\i (00:34:17) pick grid -111.651 -132.766
+\t (00:34:17) last pick:  -110.000  -135.000
+\t (00:34:17) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:34:18) prepopup -76.651 -100.754
+\i (00:34:19) done 
+\i (00:34:19) etchedit 
+\i (00:34:22) vertex 
+\i (00:34:24) pick grid -130.218 -131.913
+\t (00:34:24) last pick:  -130.000  -130.000
+\i (00:34:26) pick grid -131.712 -97.126
+\t (00:34:26) last pick:  -130.000  -95.000
+\t (00:34:26) No DRC errors detected.
+\i (00:34:26) prepopup -155.614 -110.358
+\i (00:34:27) done 
+\i (00:34:27) etchedit 
+\i (00:34:29) zoom out 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out -94.578 -82.827
+\i (00:34:29) trapsize 2134
+\i (00:34:29) zoom out 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out -94.577 -82.827
+\i (00:34:29) trapsize 4268
+\i (00:34:29) zoom out 
+\i (00:34:29) setwindow pcb
+\i (00:34:29) zoom out -94.578 -82.827
+\t (00:34:29) Grids are drawn 10.000, 10.000 apart for enhanced viewability.
+\i (00:34:29) trapsize 8813
+\i (00:34:31) zoom points 
+\t (00:34:31) Pick 1st corner of the new window.
+\i (00:34:32) pick -338.718 234.097
+\t (00:34:32) last pick:  -338.718  234.097
+\t (00:34:32) Pick to complete the window.
+\i (00:34:33) pick -264.693 -298.180
+\t (00:34:33) last pick:  -264.693  -298.180
+\i (00:34:33) trapsize 3049
+\i (00:34:33) etchedit 
+\i (00:34:42) copy 
+\t (00:34:42) Select the element(s) to copy.
+\i (00:34:44) setwindow form.find
+\i (00:34:44) FORM find all_off  
+\i (00:34:45) FORM find lines YES 
+\i (00:34:47) setwindow pcb
+\i (00:34:47) pick grid -109.467 -112.828
+\t (00:34:47) last pick:  -110.000  -115.000
+\i (00:34:55) pick grid 120.394 107.887
+\t (00:34:55) last pick:  120.000  110.000
+\i (00:34:55) prepopup 270.992 112.765
+\i (00:34:56) done 
+\i (00:34:56) etchedit 
+\i (00:34:58) zoom points 
+\t (00:34:58) Pick 1st corner of the new window.
+\i (00:34:58) pick 17.962 188.978
+\t (00:34:58) last pick:  17.962  188.978
+\t (00:34:58) Pick to complete the window.
+\i (00:34:59) pick 122.223 24.966
+\t (00:34:59) last pick:  122.223  24.966
+\i (00:34:59) trapsize 939
+\i (00:34:59) etchedit 
+\i (00:35:00) delete 
+\i (00:35:02) pick grid 115.843 128.108
+\t (00:35:02) last pick:  115.000  130.000
+\t (00:35:02) Horizontal Line Segment "Package Geometry/Silkscreen_Top"
+\i (00:35:02) prepopup 162.623 139.756
+\i (00:35:02) done 
+\i (00:35:02) etchedit 
+\i (00:35:06) vertex 
+\i (00:35:08) pick grid 135.006 130.362
+\t (00:35:08) last pick:  135.000  130.000
+\i (00:35:09) pick grid 137.073 95.042
+\t (00:35:09) last pick:  135.000  95.000
+\t (00:35:09) No DRC errors detected.
+\i (00:35:10) prepopup 163.563 110.636
+\i (00:35:10) done 
+\i (00:35:10) etchedit 
+\i (00:35:20) zoom fit 
+\i (00:35:20) trapsize 2295
+\i (00:35:24) roam start
+\i (00:35:24) roam x 96
+\i (00:35:24) roam x 64
+\i (00:35:25) roam end
+\i (00:35:28) color192 
+\i (00:35:28) setwindow cvf.dialog
+\i (00:35:28) cvf layer_mode
+\i (00:35:28) setwindow pcb
+\i (00:35:28) etchedit 
+\i (00:35:32) setwindow cvf.dialog
+\i (00:35:32) cvf layers_visible package_geometry/assembly_top TRUE
+\i (00:35:33) cvf okay
+\i (00:35:35) setwindow pcb
+\i (00:35:35) delete 
+\i (00:35:37) setwindow form.find
+\i (00:35:37) FORM find all_on  
+\i (00:35:39) setwindow pcb
+\i (00:35:39) pick grid -103.461 -86.602
+\t (00:35:39) last pick:  -105.000  -85.000
+\t (00:35:39) Shape "Package Geometry/Assembly_Top"
+\i (00:35:39) prepopup 256.792 -24.647
+\i (00:35:40) done 
+\i (00:35:40) etchedit 
+\i (00:35:42) zoom points 
+\t (00:35:42) Pick 1st corner of the new window.
+\i (00:35:42) pick -201.211 22.622
+\t (00:35:42) last pick:  -201.211  22.622
+\t (00:35:42) Pick to complete the window.
+\i (00:35:43) pick -121.818 -166.913
+\t (00:35:43) last pick:  -121.818  -166.913
+\i (00:35:43) trapsize 1086
+\i (00:35:43) etchedit 
+\i (00:35:58) add line 
+\i (00:36:01) setwindow form.mini
+\i (00:36:01) FORM mini subclass ASSEMBLY_TOP 
+\i (00:36:09) FORM mini line_width 0.000 
+\i (00:36:12) setwindow pcb
+\i (00:36:12) pick grid -119.796 -90.274
+\t (00:36:12) last pick:  -120.000  -90.000
+\i (00:36:15) pick grid -92.440 -118.281
+\t (00:36:15) last pick:  -90.000  -120.000
+\i (00:36:16) prepopup -88.749 -112.636
+\i (00:36:17) next 
+\i (00:36:18) zoom out 
+\i (00:36:18) setwindow pcb
+\i (00:36:18) zoom out -38.815 -72.254
+\i (00:36:18) trapsize 2171
+\i (00:36:19) zoom out 
+\i (00:36:19) setwindow pcb
+\i (00:36:19) zoom out -38.814 -72.254
+\i (00:36:19) trapsize 4342
+\i (00:36:20) roam start
+\i (00:36:20) roam x 112
+\i (00:36:20) roam y -32
+\i (00:36:20) roam end
+\i (00:36:22) zoom points 
+\t (00:36:22) Pick 1st corner of the new window.
+\i (00:36:23) pick -219.717 207.551
+\t (00:36:23) last pick:  -219.717  207.551
+\t (00:36:23) Pick to complete the window.
+\i (00:36:23) pick -34.741 -158.927
+\t (00:36:23) last pick:  -34.741  -158.927
+\i (00:36:24) trapsize 2099
+\i (00:36:29) pick grid 91.349 119.815
+\t (00:36:29) last pick:  90.000  120.000
+\i (00:36:31) pick grid 117.795 92.108
+\t (00:36:31) last pick:  120.000  90.000
+\i (00:36:32) prepopup 117.795 92.108
+\i (00:36:33) done 
+\i (00:36:33) etchedit 
+\i (00:36:38) change 
+\i (00:36:42) setwindow form.mini
+\i (00:36:42) FORM mini line_width 3.000 
+\i (00:36:43) setwindow pcb
+\i (00:36:43) pick grid 117.795 92.108
+\t (00:36:43) last pick:  120.000  90.000
+\t (00:36:43) No DRC errors detected.
+\t (00:36:43) Changed 1 items out of 1 items found.
+\i (00:36:44) pick grid 121.154 80.774
+\t (00:36:44) last pick:  120.000  80.000
+\t (00:36:44) No DRC errors detected.
+\t (00:36:44) Changed 1 items out of 1 items found.
+\i (00:36:46) pick grid -106.793 -101.835
+\t (00:36:46) last pick:  -105.000  -100.000
+\t (00:36:46) No DRC errors detected.
+\t (00:36:46) Changed 1 items out of 1 items found.
+\i (00:36:48) pick grid -61.875 -116.108
+\t (00:36:48) last pick:  -60.000  -115.000
+\i (00:36:50) prepopup 222.324 80.354
+\i (00:36:51) done 
+\i (00:36:51) etchedit 
+\i (00:36:54) save 
+\i (00:36:54) fillin yes 
+\t (00:36:55) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:36:55) etchedit 
+\i (00:37:06) add text 
+\t (00:37:06) Pick text location.
+\i (00:37:22) setwindow form.mini
+\i (00:37:22) FORM mini class COMPONENT VALUE 
+\i (00:37:29) FORM mini subclass SILKSCREEN_TOP 
+\i (00:37:32) FORM mini class PACKAGE GEOMETRY 
+\i (00:37:36) FORM mini subclass SILKSCREEN_TOP 
+\i (00:37:40) FORM mini text_block 6 
+\i (00:37:41) setwindow pcb
+\i (00:37:41) pick grid -170.601 19.904
+\t (00:37:41) last pick:  -170.000  20.000
+\t (00:37:41) Enter text string.
+\i (00:37:49) setwindow pcb
+\i (00:37:49) pick -170.000 20.000
+\t (00:37:49) Enter text string.
+\i (00:37:50) prepopup -66.073 110.159
+\i (00:37:51) done 
+\i (00:37:51) etchedit 
+\i (00:37:53) move 
+\t (00:37:53) Select element(s) to move.
+\i (00:37:55) pick grid -157.168 37.116
+\t (00:37:55) last pick:  -155.000  35.000
+\t (00:37:55) last pick:  -170.000  20.000
+\t (00:37:55) Pick new location for the element(s).
+\i (00:37:59) pick grid -217.198 24.102
+\t (00:37:59) last pick:  -215.000  25.000
+\i (00:38:00) prepopup -213.420 111.839
+\i (00:38:00) done 
+\i (00:38:01) etchedit 
+\i (00:38:03) save 
+\i (00:38:04) fillin yes 
+\t (00:38:04) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:38:04) etchedit 
+\i (00:38:09) pick grid 308.801 202.514
+\t (00:38:09) last pick:  310.000  205.000
+\i (00:38:26) color192 
+\i (00:38:26) setwindow cvf.dialog
+\i (00:38:26) cvf layer_mode
+\i (00:38:27) setwindow pcb
+\i (00:38:27) etchedit 
+\i (00:38:30) setwindow cvf.dialog
+\i (00:38:30) cvf global_visible
+\i (00:38:31) cvf okay
+\i (00:38:40) setwindow pcb
+\i (00:38:40) zoom out 1 
+\i (00:38:41) setwindow pcb
+\i (00:38:41) zoom out 266.402 165.992
+\i (00:38:41) trapsize 4198
+\i (00:38:43) zoom in 1 
+\i (00:38:43) setwindow pcb
+\i (00:38:43) zoom in -77.828 -117.788
+\i (00:38:43) trapsize 2099
+\i (00:38:44) show element 
+\i (00:38:46) setwindow form.find
+\i (00:38:46) FORM find all_off  
+\i (00:38:47) FORM find text YES 
+\i (00:38:50) setwindow pcb
+\i (00:38:50) pick grid 115.276 -230.292
+\t (00:38:50) last pick:  115.000  -230.000
+\i (00:38:53) prepopup -46.763 -264.295
+\i (00:38:54) done 
+\i (00:38:54) etchedit 
+\i (00:38:56) delete 
+\i (00:38:58) pick grid 103.942 -230.712
+\t (00:38:58) last pick:  105.000  -230.000
+\t (00:38:58) Text "Value*"
+\i (00:38:59) prepopup 49.789 -257.998
+\i (00:38:59) done 
+\i (00:38:59) etchedit 
+\i (00:39:01) zoom out 1 
+\i (00:39:01) setwindow pcb
+\i (00:39:01) zoom out -77.828 -117.788
+\i (00:39:01) trapsize 4198
+\i (00:39:06) zoom in 1 
+\i (00:39:06) setwindow pcb
+\i (00:39:06) zoom in 462.864 137.446
+\i (00:39:06) trapsize 2099
+\i (00:39:07) zoom out 1 
+\i (00:39:07) setwindow pcb
+\i (00:39:07) zoom out 277.316 93.787
+\i (00:39:07) trapsize 4198
+\i (00:39:09) color192 
+\i (00:39:09) setwindow cvf.dialog
+\i (00:39:09) cvf layer_mode
+\i (00:39:09) setwindow pcb
+\i (00:39:09) etchedit 
+\i (00:39:12) setwindow cvf.dialog
+\i (00:39:12) cvf layer_tree_item 'Components'
+\i (00:39:14) cvf select_color_cell 56
+\i (00:39:23) cvf layers_color components ref_des/assembly_top 57
+\i (00:39:26) cvf select_color_cell 28
+\i (00:39:28) cvf layers_color components ref_des/silkscreen_top 29
+\i (00:39:30) cvf apply
+\i (00:39:32) cvf okay
+\i (00:39:34) setwindow pcb
+\i (00:39:34) move 
+\t (00:39:34) Select element(s) to move.
+\i (00:39:36) pick grid -112.251 -226.933
+\t (00:39:36) last pick:  -110.000  -225.000
+\t (00:39:36) last pick:  -145.000  -234.000
+\t (00:39:36) Pick new location for the element(s).
+\i (00:39:38) pick grid -33.330 -20.395
+\t (00:39:38) last pick:  -35.000  -20.000
+\i (00:39:39) pick grid -46.763 -229.452
+\t (00:39:39) last pick:  -45.000  -230.000
+\t (00:39:39) last pick:  -70.000  -235.000
+\t (00:39:39) Pick new location for the element(s).
+\i (00:39:42) pick grid -217.198 126.532
+\t (00:39:42) last pick:  -215.000  125.000
+\i (00:39:43) prepopup -344.815 -8.641
+\i (00:39:43) done 
+\i (00:39:43) etchedit 
+\i (00:39:45) show element 
+\i (00:39:47) pick grid -189.492 150.040
+\t (00:39:47) last pick:  -190.000  150.000
+\i (00:39:47) prepopup -345.655 78.675
+\i (00:39:49) done 
+\i (00:39:49) etchedit 
+\i (00:39:51) prmed 
+\i (00:39:56) setwindow form.prmedit
+\i (00:39:56) FORM prmedit text  
+\i (00:39:57) FORM prmedit text_setup_button  
+\i (00:40:24) setwindow form.textblock
+\i (00:40:24) FORM textblock 11 width 35.000 
+\i (00:40:24) FORM textblock done  
+\i (00:40:27) setwindow form.prmedit
+\i (00:40:27) FORM prmedit done  
+\i (00:40:27) setwindow pcb
+\i (00:40:27) etchedit 
+\i (00:40:31) prmed 
+\i (00:40:33) setwindow form.prmedit
+\i (00:40:33) FORM prmedit text_setup_button  
+\i (00:40:47) setwindow form.textblock
+\i (00:40:47) FORM textblock 10 width 35.000 
+\i (00:40:52) FORM textblock done  
+\i (00:40:53) setwindow form.prmedit
+\i (00:40:53) FORM prmedit done  
+\i (00:40:53) setwindow pcb
+\i (00:40:53) etchedit 
+\i (00:40:55) move 
+\t (00:40:55) Select element(s) to move.
+\i (00:40:57) pick grid -150.871 128.211
+\t (00:40:57) last pick:  -150.000  130.000
+\t (00:40:57) last pick:  -215.000  125.000
+\t (00:40:57) Pick new location for the element(s).
+\i (00:40:59) pick grid -257.498 126.532
+\t (00:40:59) last pick:  -255.000  125.000
+\i (00:41:01) change 
+\i (00:41:04) setwindow form.mini
+\i (00:41:04) FORM mini apply_width NO 
+\i (00:41:04) FORM mini apply_size YES 
+\i (00:41:08) FORM mini text_block 10 
+\i (00:41:09) setwindow form.find
+\i (00:41:09) FORM find lines NO 
+\i (00:41:10) setwindow pcb
+\i (00:41:10) pick grid -152.551 84.552
+\t (00:41:10) last pick:  -155.000  85.000
+\t (00:41:10) No DRC errors detected.
+\t (00:41:10) Changed 1 items out of 1 items found.
+\i (00:41:11) pick grid -153.390 33.338
+\t (00:41:11) last pick:  -155.000  35.000
+\t (00:41:11) No DRC errors detected.
+\t (00:41:11) Changed 1 items out of 1 items found.
+\i (00:41:12) prepopup -275.130 -82.525
+\i (00:41:12) done 
+\i (00:41:12) etchedit 
+\i (00:41:15) move 
+\t (00:41:15) Select element(s) to move.
+\i (00:41:17) pick grid -157.588 33.338
+\t (00:41:17) last pick:  -160.000  35.000
+\t (00:41:17) last pick:  -215.000  25.000
+\t (00:41:17) Pick new location for the element(s).
+\i (00:41:19) pick grid -337.259 -53.979
+\t (00:41:19) last pick:  -335.000  -55.000
+\i (00:41:20) pick grid -167.663 79.515
+\t (00:41:20) last pick:  -170.000  80.000
+\t (00:41:20) last pick:  -175.000  80.000
+\t (00:41:20) Pick new location for the element(s).
+\i (00:41:22) pick grid -218.878 57.686
+\t (00:41:22) last pick:  -220.000  60.000
+\i (00:41:23) pick grid -224.755 -52.300
+\t (00:41:23) last pick:  -225.000  -50.000
+\t (00:41:23) last pick:  -335.000  -55.000
+\t (00:41:23) Pick new location for the element(s).
+\i (00:41:25) pick grid -337.259 -3.604
+\t (00:41:25) last pick:  -335.000  -5.000
+\i (00:41:26) prepopup -357.409 -134.579
+\i (00:41:27) done 
+\i (00:41:27) etchedit 
+\i (00:41:30) save 
+\i (00:41:30) fillin yes 
+\t (00:41:30) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:41:30) etchedit 
+\i (00:49:50) text edit 
+\i (00:49:51) pick grid -270.092 16.546
+\t (00:49:51) last pick:  -270.000  15.000
+\i (00:49:54) setwindow pcb
+\i (00:49:54) pick -270.092 16.546
+\t (00:49:54) Pick text to edit.
+\i (00:49:55) prepopup -267.573 -114.429
+\i (00:49:56) done 
+\i (00:49:56) etchedit 
+\i (00:49:58) save 
+\i (00:50:00) fillin yes 
+\t (00:50:01) Symbol 'sw_sm_4pos_244x244_50_tda.psm' created.
+\i (00:50:01) etchedit 
+\i (00:50:02) exit 
+\t (00:50:03)     Journal end - Tue Apr 08 10:02:39 2014

@@ -1,0 +1,141 @@
+33796753353051
+awg1000
+3-6318490-6
+
+
+0
+226
+226
+awg1000
+5-1634503-1
+
+
+0
+5
+2
+awg1000
+10CX085YU484I6G
+Zynq-7000 BGA, 22x22 grid, 19x19mm package, 0.8mm pitch; https://www.xilinx.com/support/documentation/user_guides/ug865-Zynq-7000-Pkg-Pinout.pdf#page=79, NSMD pad definition Appendix A
+BGA 484 0.8 CLG484 CL484 CLG485 CL485
+0
+484
+484
+awg1000
+74404024010
+
+
+0
+2
+2
+awg1000
+BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm
+BGA-96, http://www.mouser.com/ds/2/198/43-46TR16640B-81280BL-706483.pdf
+BGA-96
+0
+96
+96
+awg1000
+BGA-625_21.0x21.0mm_Layout25x25_P0.8mm
+BGA-625
+BGA-625
+0
+625
+625
+awg1000
+C0201_L
+
+
+0
+2
+2
+awg1000
+C0603_L
+
+
+0
+2
+2
+awg1000
+EEE-FK1H221GP
+
+
+0
+2
+2
+awg1000
+HDMI_A_Amphenol_10029449-x01xLF_Horizontal
+HDMI Type A connector, Amphenol 10029449-001TLF 10029449-001RLF 10029449-101TLF 10029449-101RLF, Right Angle(https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029449.pdf)
+hdmi right angle
+0
+23
+20
+awg1000
+IHLP-4040
+Inductor, Vishay, IHLP series, 10.2mmx10.2mm
+inductor vishay ihlp smd
+0
+2
+2
+awg1000
+IQXT-316-5
+
+
+0
+6
+6
+awg1000
+MP2147GD-Z
+
+
+0
+14
+11
+awg1000
+PowerPAK_MLP55-32L
+
+QFN NoLead
+0
+35
+35
+awg1000
+RJ45_Amphenol_RJMG1BD3B8K1ANR
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, AutoMDIX, https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf
+RJ45 Magjack
+0
+14
+13
+awg1000
+RJ45_UDE_RB1-125B8G1A
+1 Port RJ45 Connector Through Hole 10/100/1000 Base-T, https://datasheet.lcsc.com/szlcsc/1901091107_UDE-Corp-RB1-125B8G1A_C363353.pdf#page=3
+RJ45 ethernet
+0
+16
+15
+awg1000
+Relay_DPDT_Kemet_EE2_NU
+Kemet signal relay, DPDT, double coil latching, https://content.kemet.com/datasheets/KEM_R7002_EC2_EE2.pdf
+Kemet EC2 signal relay DPDT double coil latching surface mount SMD
+0
+8
+8
+awg1000
+TF31-50S-0.5SH(800)
+
+
+0
+50
+50
+awg1000
+USB_A_Molex_105057_Vertical
+https://www.molex.com/pdm_docs/sd/1050570001_sd.pdf
+USB A Vertical
+0
+7
+5
+awg1000
+ZAY0196A
+
+
+0
+196
+196

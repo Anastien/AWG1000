@@ -1,0 +1,37 @@
+\t (00:00:14) allegro_free_viewer 16.6 S002 (v16-6-0A) Windows 32
+\t (00:00:14)     Journal start - Tue Jul 14 13:56:32 2015
+\t (00:00:14)         Host=LTA0270558 User=a0270558 Pid=4184 CPUs=4
+\t (00:00:14) 
+\d (00:00:14) Database opened: Z:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO/TSW1400_D.brd
+\i (00:00:16) trapsize 76903
+\i (00:00:18) zoom in 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 8145.505 2366.656
+\i (00:00:18) trapsize 38452
+\i (00:00:18) zoom in 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 7461.067 4535.325
+\i (00:00:18) trapsize 19226
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:19) roam y -96 
+\i (00:00:19) roam y -96
+\i (00:00:20) zoom in 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 6826.616 5367.799
+\i (00:00:20) trapsize 9613
+\i (00:00:21) zoom in 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 7241.893 4850.625
+\i (00:00:21) trapsize 4806
+\i (00:00:22) roam y 96 
+\i (00:00:22) roam y 96
+\i (00:00:35) show element 
+\i (00:00:41) setwindow form.find
+\i (00:00:41) FORM find all_off  
+\i (00:00:42) FORM find pins YES 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) drag_start grid 7580.267 4678.551
+\i (00:01:44) drag_stop
+\i (00:11:43) exit 
+\t (00:11:44)     Journal end - Tue Jul 14 14:08:02 2015

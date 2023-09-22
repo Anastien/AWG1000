@@ -1,0 +1,43 @@
+\t (00:00:19) allegro_free_viewer 22.1 P001 Windows SPB 64-bit Edition
+\t (00:00:19)     Journal start - Thu Sep 21 13:07:07 2023
+\t (00:00:19)         Host=EVC00463NB User=z004ftpx Pid=9404 CPUs=12
+\t (00:00:19) CmdLine= C:\Cadence\PCBViewers_2022\tools\bin\allegro_free_viewer.exe
+\t (00:00:19) 
+\d (00:00:19) Design opened: E:/Personal/Projects/AWG1000/hardware/01-ECAD/02-Documentation/cyclone-10-gx-kit-collateral/board_design_files/c10gx_10cx220yf780/pcb/C10_GX_DK_Rev_A1_Release_1103.brd
+\i (00:00:19) updateport PropPane
+\i (00:00:19) updateport CVPane
+\i (00:00:19) ucpedit 
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3352.32 2279.63
+\i (00:00:20) trapsize 1953
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3352.32 2279.64
+\i (00:00:20) trapsize 976
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3352.33 2279.64
+\i (00:00:20) trapsize 488
+\i (00:00:21) zoom in 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom in 3352.33 2279.64
+\i (00:00:21) trapsize 244
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3352.33 2279.64
+\i (00:00:21) trapsize 488
+\i (00:00:21) zoom out 1 
+\i (00:00:21) setwindow pcb
+\i (00:00:21) zoom out 3352.33 2279.64
+\i (00:00:21) trapsize 976
+\i (00:00:23) QtSignal DisplayShadow OriginSaturationValue editingFinished "100"
+\i (00:00:23) QtSignal PropertySelectionFilterWidget ObjectAll clicked on
+\i (00:00:23) QtSignal PropertySelectionFilterWidget ObjectAll clicked
+\i (00:00:28) QtSignal PropertySelectionFilterWidget Components clicked on
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 3949.85 2806.87
+\i (00:00:34) trapsize 1953
+\i (00:00:40) exit 
+\t (00:00:40)     Journal end - Thu Sep 21 13:07:28 2023

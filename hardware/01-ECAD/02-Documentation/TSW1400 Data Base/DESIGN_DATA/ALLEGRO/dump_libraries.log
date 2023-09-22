@@ -1,0 +1,379 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S019                                      )
+(    Date/Time        : Tue Apr 08 09:18:13 2014                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: H:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO/TSW1400_D.brd ***
+
+
+
+  *** Creating padstacks. ***
+
+  PAD150RND120D being dumped.
+
+  PAD060RND040D being dumped.
+
+  PAD500RND250D being dumped.
+
+  PAD062RND040D being dumped.
+
+  PAD170RND140D being dumped.
+
+  PAD080RND050D being dumped.
+
+  PAD062RND032D being dumped.
+
+  PAD063RND043D being dumped.
+
+  PAD092RND062D being dumped.
+
+  PAD065RND035D being dumped.
+
+  PAD058RND038D being dumped.
+
+  PAD196RND156D being dumped.
+
+  PAD097RND067D being dumped.
+
+  PAD062SQR040D being dumped.
+
+  PAD062SQR032D being dumped.
+
+  PAD063SQR043D being dumped.
+
+  PAD065SQR035D being dumped.
+
+  PAD058SQR038D being dumped.
+
+  HF_TOP being dumped.
+
+  VIA010_TENTED being dumped.
+
+  SMD12X31 being dumped.
+
+  SMD30X32 being dumped.
+
+  SMD40X50 being dumped.
+
+  SMD20X25 being dumped.
+
+  SMD30X60 being dumped.
+
+  SMD11X90 being dumped.
+
+  SMD40X70 being dumped.
+
+  SMD10X28 being dumped.
+
+  SMD80X13 being dumped.
+
+  SMD24X60 being dumped.
+
+  SMD91X20 being dumped.
+
+  SMD51X15 being dumped.
+
+  SMD12X90 being dumped.
+
+  SMD31X35 being dumped.
+
+  SMD11X37 being dumped.
+
+  SMD60X16 being dumped.
+
+  SMD65X12 being dumped.
+
+  SMD50X63 being dumped.
+
+  SMD12X57 being dumped.
+
+  SMD50X55 being dumped.
+
+  SMD60X55 being dumped.
+
+  SMD60X56 being dumped.
+
+  SMD90X26 being dumped.
+
+  SMD11X89 being dumped.
+
+  SMD71X47 being dumped.
+
+  SMD74X62 being dumped.
+
+  SMD55X47 being dumped.
+
+  SMD63X95 being dumped.
+
+  SMD38X98 being dumped.
+
+  SMD67X79 being dumped.
+
+  SMD-R0-35X2_MM being dumped.
+
+  SMD98X79 being dumped.
+
+  SMD100X25 being dumped.
+
+  SMD100X17 being dumped.
+
+  SMD17X100 being dumped.
+
+  SMD70X140 being dumped.
+
+  SMD50X125 being dumped.
+
+  SMD83X102 being dumped.
+
+  SMD65X104 being dumped.
+
+  SMD125X63 being dumped.
+
+  SMD40SQR being dumped.
+
+  SMD50SQR being dumped.
+
+  SMD185X25 being dumped.
+
+  SMD185X17 being dumped.
+
+  SMD17X185 being dumped.
+
+  SMD126X98 being dumped.
+
+  SMD-R0-3X0-7_MM being dumped.
+
+  SMD-R0-4X0-7_MM being dumped.
+
+  SMD-R1-4X1-6_MM being dumped.
+
+  SMD-R0-6X1-6_MM being dumped.
+
+  SMT63X230 being dumped.
+
+  SMT63X154 being dumped.
+
+  SMD-R4-5X4-6_MM being dumped.
+
+  SMD030RND being dumped.
+
+  SMD040RND being dumped.
+
+  SMD28X11_NPSMK being dumped.
+
+  VIA010_TENTED_18_BGA being dumped.
+
+  S70X12_OB being dumped.
+
+  SMD65X94_NPSMK being dumped.
+
+  SMD167X150 being dumped.
+
+  SMD150SQR being dumped.
+
+  SMD016SQR being dumped.
+
+  SMD-R0-6X1-05_MM being dumped.
+
+  SMD186X189 being dumped.
+
+  SMD-R10X20 being dumped.
+
+  SMT068X125 being dumped.
+
+  SMD-R25X30 being dumped.
+
+  HF_L2-GND1 being dumped.
+
+  HF_L5-GND2 being dumped.
+
+  HF_L8-GND3 being dumped.
+
+  HF_L3-SIG1 being dumped.
+
+  HF_L4-SIG2 being dumped.
+
+  SMD-R0-76X1-27_MM being dumped.
+
+  HF_L9-SIG3 being dumped.
+
+  SMD-R87X102 being dumped.
+
+  HF_BOTTOM being dumped.
+
+  HF_L6-PWR1 being dumped.
+
+  SMD124SQR_NPMSK being dumped.
+
+  HF_L7-PWR2 being dumped.
+
+  SMD080SQR_NPMSK being dumped.
+
+  VIA008_TENTED_18 being dumped.
+
+  HF_L11-GND4 being dumped.
+
+  HF_L10-SIG4 being dumped.
+
+  SMD33X11OBL being dumped.
+
+  SMD11X33OBL being dumped.
+
+  SMD14X40OBL being dumped.
+
+  BGA019 being dumped.
+
+  MFG040 being dumped.
+
+  MFG041 being dumped.
+
+  VIA010 being dumped.
+
+  MFG044 being dumped.
+
+  MFG063 being dumped.
+
+  VIA012 being dumped.
+
+  MFG110_NPTH being dumped.
+
+  MFG047 being dumped.
+
+  MFG125_NPTH being dumped.
+
+  MFG018_NPTH being dumped.
+
+  SMD118X197_PWRPAD being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  soic-8 being dumped.
+
+  sw_thvt_4pdt_slide_12 being dumped.
+
+  cap_smd_8mm being dumped.
+
+  qfn_20_203x203_26_pwrpad being dumped.
+
+  tant_a being dumped.
+
+  tant_d being dumped.
+
+  tant_e being dumped.
+
+  tssop_20_260x177_26 being dumped.
+
+  sot_323 being dumped.
+
+  led_0805 being dumped.
+
+  ind_0805 being dumped.
+
+  hdr_thvt_1x1 being dumped.
+
+  soic_10_122x122_50_pwrpad being dumped.
+
+  hdr_thvt_1x2_100_m being dumped.
+
+  hdr_thvt_1x3_100_m being dumped.
+
+  con_thvt_2x5_100_m being dumped.
+
+ERROR: For symbol Symbol Definition "Con_Thvt_2X5_100_M", PAD065SQR035D padstack not found due to ERROR(SPMHDB-274): Unable to load flash symbol TR95X65X20 (Check PSMPATH setting for this symbol).. Pin not added.
+  sw-smd-8 being dumped.
+
+  fuse_sm_nano being dumped.
+
+  hdr_thvt_2x44_100_f being dumped.
+
+  vssop_8_83x94_0p5mm being dumped.
+
+  0201 being dumped.
+
+  1210 being dumped.
+
+  0402 being dumped.
+
+  hdr_thvt_1x3_100_m_keyed being dumped.
+
+  0603 being dumped.
+
+  1206 being dumped.
+
+  0805 being dumped.
+
+  ind_sm_mss1048 being dumped.
+
+  osc-3x5mm being dumped.
+
+  cap_smd_12_5mm being dumped.
+
+  c-0603_x2y being dumped.
+
+  sop_5_118x67_37 being dumped.
+
+  sot_5_118x67_57 being dumped.
+
+  con_smrt_usbmne20_f being dumped.
+
+  qfn_14_144x144_pwrpad being dumped.
+
+  son_10_124x124_pwrpad being dumped.
+
+  smd_jumper_1x3 being dumped.
+
+  ind_sm_7447789002 being dumped.
+
+  bga_1152_39 being dumped.
+
+  do-214ab_rectron being dumped.
+
+  con_smvt_120pos_qsh_samtec_rt1 being dumped.
+
+  con_smvt_180pos_qsh_samtec_rt1 being dumped.
+
+  htssop_14_201x177_26_pwrpad being dumped.
+
+  sma_thvt_312x312 being dumped.
+
+  diode_sm_ss3p6l being dumped.
+
+  ca-ave-0603-8 being dumped.
+
+  socket-so-dimm200 being dumped.
+
+  tp_thvt_060_rnd being dumped.
+
+  con_thrt_powerjack_rapc722 being dumped.
+
+  con_smvt_60pos_qsh_samtec being dumped.
+
+  sw_smvt_spst_4 being dumped.
+
+  ra-vex-0402-8 being dumped.
+
+  con_thvt_banana_jack_250dia being dumped.
+
+  lqfp_64_402x402_20 being dumped.
+
+  soic_16_410x299_50 being dumped.
+
+  xtal_4_sm_130x102 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           1
+
+Number of padstacks dumped:              118
+Number of package symbols dumped:         56
+
+Total number of symbols dumped:           56
+*****************************************************
+

@@ -1,0 +1,74 @@
+\t (04:14:58) allegro 16.5 S037 (v16-5-13CF) i86
+\t (04:14:58)     Journal start - Wed Jul 24 13:14:42 2013
+\t (04:14:58)         Host=LTA0868815S User=a0868815 Pid=3396 CPUs=2
+\t (04:14:58) 
+\d (04:14:58) Database opened: H:/TSW/TSW1400_D/DESIGN_DATA/ALLEGRO/TSW1400_D.brd
+\i (04:14:59) generaledit 
+\i (04:15:02) setwindow form.vf_vis
+\i (04:15:02) FORM vf_vis 1 all_colorvisible NO 
+\i (04:15:05) FORM vf_vis 6 all_colorvisible YES 
+\i (04:15:08) setwindow pcb
+\i (04:15:08) assign color 
+\i (04:15:12) setwindow form.mini
+\i (04:15:12) FORM mini color2 1 
+\i (04:15:14) setwindow form.find
+\i (04:15:14) FORM find pins YES 
+\i (04:15:17) FORM find name_type Net 
+\i (04:15:20) FORM find find_name 5vin 
+\i (04:15:23) FORM find find_by_name  
+\i (04:15:26) setwindow form.findname
+\i (04:15:26) FORM findname objlist 5V_In 
+\i (04:15:31) FORM findname select  
+\i (04:15:31) setwindow pcb
+\i (04:15:31) trapsize 33076
+\t (04:15:31) Net "5V_In" assigned color.
+\i (04:15:33) setwindow form.findname
+\i (04:15:33) FORM findname done  
+\i (04:15:34) setwindow pcb
+\i (04:15:34) prepopup 1719.805 4798.346
+\i (04:15:34) done 
+\i (04:15:34) generaledit 
+\i (04:15:37) show element 
+\i (04:15:41) pick grid 4253.432 4447.740
+\t (04:15:41) last pick:  4255.000  4450.000
+\i (04:15:43) pick grid 3770.521 888.754
+\t (04:15:43) last pick:  3770.000  890.000
+\i (04:15:45) pick grid 3909.441 1795.039
+\t (04:15:45) last pick:  3910.000  1795.000
+\i (04:15:49) roam start
+\i (04:15:49) roam y 64
+\i (04:15:49) roam x 16
+\i (04:15:49) roam y 288
+\i (04:15:49) roam y 80
+\i (04:15:50) roam y 16
+\i (04:15:50) roam x 192
+\i (04:15:50) roam y -32
+\i (04:15:50) roam x 144
+\i (04:15:50) roam y -48
+\i (04:15:50) roam x 336
+\i (04:15:50) roam y -80
+\i (04:15:50) roam x 128
+\i (04:15:50) roam y -32
+\i (04:15:51) roam x 16
+\i (04:15:51) roam y -16
+\i (04:15:51) roam x -64
+\i (04:15:51) roam y -176
+\i (04:15:51) roam end
+\t (04:15:51) Pick to complete the window.
+\i (04:15:52) prepopup 7266.814 1915.104
+\i (04:15:53) cancel 
+\i (04:15:54) pick grid 7028.666 2073.870
+\t (04:15:54) last pick:  7030.000  2075.000
+\i (04:15:57) pick grid 7326.351 3496.141
+\t (04:15:57) last pick:  7325.000  3495.000
+\i (04:15:59) pick grid 7293.275 2748.622
+\t (04:15:59) last pick:  7295.000  2750.000
+\i (04:16:00) prepopup 8589.857 2226.020
+\i (04:16:01) done 
+\i (04:16:02) generaledit 
+\i (04:16:23) opencd C:/CADENCE_DESIGNS/pcb/ADS54J4X_A/DESIGN_DATA/ALLEGRO/ADS42JB69EVM_D.brd 
+\e (04:16:23) Do you want to save the changes you made to TSW1400_D.brd?
+\i (04:16:25) fillin no 
+\t (04:16:25) Opening existing design...
+\i (04:16:25) trapsize 811
+\t (04:16:26)     Journal end - Wed Jul 24 13:16:09 2013
