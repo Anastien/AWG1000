@@ -19,7 +19,7 @@
     "ratsnest_display_mode": 0,
     "selection_filter": {
       "dimensions": false,
-      "footprints": true,
+      "footprints": false,
       "graphics": false,
       "keepouts": false,
       "lockedItems": true,
@@ -65,7 +65,7 @@
       35,
       36
     ],
-    "visible_layers": "0049000_80000005",
+    "visible_layers": "004d000_80000009",
     "zone_display_mode": 0
   },
   "meta": {
@@ -76,7 +76,7 @@
     "files": [
       {
         "name": "AWG1000.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
